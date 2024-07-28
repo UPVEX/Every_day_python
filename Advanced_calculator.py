@@ -2,7 +2,6 @@
 #نکته:تابع evalورودی که کاربر میده رو به عنوان برنامه پایتونی اجرا میکنه 
 
 
-
 import sympy
 
 def calculate_expression(expression):
