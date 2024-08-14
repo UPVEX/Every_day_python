@@ -12,6 +12,9 @@ def limit(arr, min=None, max=None):
 
     return [val for val in arr if min_cheak(val) and  max_cheak(val)]
 
+user_nums = input("enter numbers using space ==> ") 
+min = int(input("enter the min number u want ==> "))
+max = int(input("enter the max number u want ==> "))
+numbers = [int(num) for num in user_nums.split()]
 
-
-print(  limit([1,2,3,4,5], 3, 3))
+print(  limit(numbers, min, max))
