@@ -2,7 +2,6 @@
 # amir -> [97, 109, 105, 114]
 # nima -> [110, 105, 109, 97]
 
-
 def encode(plain):
     return [ord(elm) for elm in plain]
 
