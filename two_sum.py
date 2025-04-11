@@ -21,6 +21,5 @@ def two_sum(numbers, target):
         else:
             p1 += 1
 
-
 print(two_sum([2, 7, 11, 15], 18))
 
