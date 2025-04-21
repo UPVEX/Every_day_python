@@ -1,5 +1,4 @@
 
-```markdown
 # Every_day_python 🐍
 
 Welcome to the **Every_day_python** repository!  
