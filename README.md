@@ -43,7 +43,7 @@ This project keeps me accountable, consistent, and always learning.
 
 ## 📈 Progress
 
-- ✅ Algorithms solved so far: **93 / 100**
+- ✅ Algorithms solved so far: **94 / 100**
 
 > Only a few left to reach the final milestone!
 
