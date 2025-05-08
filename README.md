@@ -11,7 +11,9 @@ This project is a daily challenge where I solve one Python algorithm per day, wi
   ```
   1th day
   2th day
-  ...
+  .
+  .
+  .
   95th day
   ```
 - The explanation and code for each algorithm are provided in its respective Python file.
