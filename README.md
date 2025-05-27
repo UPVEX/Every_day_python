@@ -7,7 +7,7 @@ This project is a daily challenge where I solve one Python algorithm per day, wi
 ## 📂 Project Structure
 
 - Each folder is named after the algorithm solved inside it.
-- Each file name represents a specific day in the journey, titled as:
+- Each files name represents a specific day in the journey, titled as:
   ```
   1th day
   2th day
