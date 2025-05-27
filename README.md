@@ -8,12 +8,12 @@ This project is a daily challenge where I solve one Python algorithm per day, wi
 
 - Each folder is named after the algorithm solved inside it.
 - Each files name represents a specific day in the journey, titled as:
-  ```
-  (1)a1z26
-  (2)accum
-  ...
-  (100)sudoku
-  ```
+  
+  > (1)a1z26
+  > (2)accum
+  > ...
+  > (100)sudoku
+  
 - The explanation and code for each algorithm are provided in its respective Python file.
 
 ## 📌 Goal
