@@ -12,7 +12,9 @@ This project is a daily challenge where I solve one Python algorithm per day, wi
   
   ```
   (1)a1z26
+  
   (2)accum
+  
   ...
   
   (100)sudoku
